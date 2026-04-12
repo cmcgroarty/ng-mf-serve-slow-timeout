@@ -43,3 +43,6 @@ Thumbs.db
 
 .angular
 .yarn/install-state.gz
+
+.claude/worktrees
+.claude/settings.local.json

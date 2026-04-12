@@ -44,5 +44,6 @@
       "style": "css",
       "unitTestRunner": "none"
     }
-  }
+  },
+  "analytics": false
 }
